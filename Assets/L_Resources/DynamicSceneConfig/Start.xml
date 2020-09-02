@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SceneInfo>
+  <SceneName>Start</SceneName>
+  <Object Name="Main Camera" Path="L_Resources/DynamicScenePrefab/Start/Main Camera.prefab">
+    <Position X="0" Y="1" Z="-10" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="Directional Light" Path="L_Resources/DynamicScenePrefab/Start/Directional Light.prefab">
+    <Position X="0" Y="3" Z="0" />
+    <Rotate X="50" Y="330" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+</SceneInfo>

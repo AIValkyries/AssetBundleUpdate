@@ -1,0 +1,15 @@
+syntax = "proto2";
+
+package cs;
+
+// 意见通道 CS_QUESTIONAIRE_REQ = 2763
+message CSQuestionaireReq
+{
+}
+
+// 意见通道 CS_QUESTIONAIRE_RES = 2764
+message CSQuestionaireRes
+{
+    //状态返回码
+    required int32 RetCode = 1;
+}

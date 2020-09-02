@@ -1,0 +1,5 @@
+cs_accelerate.proto
+cs_honor.proto
+cs_npctalk.proto
+cs_poll.proto
+cs_questionaire.proto

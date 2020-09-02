@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package cs;
+
+
+//npc说话    CS_NPC_TALK_NOTIFY = 2080;
+message CSNpcTalkNotify
+{
+  
+    //内容ID
+    required uint32 TalkID = 2;
+}
+

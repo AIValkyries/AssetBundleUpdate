@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingInfo>
+  <Version>1.1</Version>
+  <OutPath>StreamingAssets</OutPath>
+  <Options>ChunkBasedCompression</Options>
+  <ResetAssetBundleName>1</ResetAssetBundleName>
+  <UnpackPath>L_Lua;L_Resources;Scenes</UnpackPath>
+  <IgnoreSuffix>.meta;.cs</IgnoreSuffix>
+  <AssetsMap>L_Lua,lua;L_Resources/DataConfig,dataConfig</AssetsMap>
+</SettingInfo>

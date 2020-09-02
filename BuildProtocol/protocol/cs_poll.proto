@@ -1,0 +1,15 @@
+syntax = "proto2";
+
+package cs;
+
+// 调查问卷 CS_POLL_REQ = 2763
+message CSPollReq
+{
+}
+
+// 调查问卷 CS_POLL_REQ = 2764
+message CSPollRes
+{
+    //状态返回码
+    required int32 RetCode = 1;
+}

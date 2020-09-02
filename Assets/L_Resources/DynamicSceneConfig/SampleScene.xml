@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SceneInfo>
+  <SceneName>SampleScene</SceneName>
+  <Object Name="Main Camera" Path="L_Resources/DynamicScenePrefab/SampleScene/Main Camera.prefab">
+    <Position X="0" Y="1" Z="-10" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="Directional Light" Path="L_Resources/DynamicScenePrefab/SampleScene/Directional Light.prefab">
+    <Position X="0" Y="3" Z="0" />
+    <Rotate X="50.00002" Y="330" Z="2.656473E-06" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="GameObject" Path="L_Resources/DynamicScenePrefab/SampleScene/GameObject.prefab">
+    <Position X="0" Y="0" Z="0" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="Plane" Path="L_Resources/DynamicScenePrefab/SampleScene/Plane.prefab">
+    <Position X="-0.3641959" Y="-2.44" Z="0.7733288" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="2" Y="2" Z="2" />
+  </Object>
+  <Object Name="Cylinder" Path="L_Resources/DynamicScenePrefab/SampleScene/Cylinder.prefab">
+    <Position X="2.08" Y="0.1011573" Z="0.7733288" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="Quad" Path="L_Resources/DynamicScenePrefab/SampleScene/Quad.prefab">
+    <Position X="5.1" Y="0.1011573" Z="0.7733288" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="Canvas" Path="L_Resources/DynamicScenePrefab/SampleScene/Canvas.prefab">
+    <Position X="412" Y="232" Z="0" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+  <Object Name="EventSystem" Path="L_Resources/DynamicScenePrefab/SampleScene/EventSystem.prefab">
+    <Position X="0" Y="0" Z="0" />
+    <Rotate X="0" Y="0" Z="0" />
+    <Scale X="1" Y="1" Z="1" />
+  </Object>
+</SceneInfo>

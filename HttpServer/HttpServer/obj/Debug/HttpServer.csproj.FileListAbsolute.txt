@@ -1,0 +1,14 @@
+E:\vs\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+E:\vs\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+E:\vs\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+E:\vs\HttpServer\HttpServer\obj\Debug\HttpServer.csprojAssemblyReference.cache
+E:\vs\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.CoreCompileInputs.cache
+E:\vs\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+E:\vs\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
+E:\myProject\LonelyFramework\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+E:\myProject\LonelyFramework\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+E:\myProject\LonelyFramework\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+E:\myProject\LonelyFramework\HttpServer\HttpServer\obj\Debug\HttpServer.csprojAssemblyReference.cache
+E:\myProject\LonelyFramework\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.CoreCompileInputs.cache
+E:\myProject\LonelyFramework\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+E:\myProject\LonelyFramework\HttpServer\HttpServer\obj\Debug\HttpServer.pdb

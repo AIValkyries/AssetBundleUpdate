@@ -1,0 +1,15 @@
+syntax = "proto2";
+package cs;
+
+//头衔提升请求 CS_UPDATE_HONOR_REQ = 2940;
+message CSUpdateHonorReq
+{
+    
+}
+
+//头衔提升响应     CS_UPDATE_HONOR_RES = 2941;
+message CSUpdateHonorRes
+{
+    //返回码
+    required sint32 RetCode = 1;
+}
