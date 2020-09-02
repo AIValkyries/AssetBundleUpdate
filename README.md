@@ -1,0 +1,2 @@
+# AssetBundleUpdate
+本质上是资源热更新，但是由于资源分包，所有又包含了protobuf的配置文件系统
