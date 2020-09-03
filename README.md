@@ -1,2 +1,10 @@
 # AssetBundleUpdate
-本质上是资源热更新，但是由于资源分包，所有又包含了protobuf的配置文件系统
+#不知如何表达，有兴趣自己研究下有问题 969929242@qq.com
+#资源热更新系统
+#依赖
+#  proto序列化excel:https://blog.csdn.net/linshuhe1/article/details/68060544
+#  zip压缩库
+#  protobuf-net库
+#1.proto配置系统
+#2.版本管理
+#3.如何分包：看项目中的"资源分包表.xlsx"
