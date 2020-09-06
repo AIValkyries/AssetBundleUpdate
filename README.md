@@ -23,5 +23,5 @@
 *  设置版本号(2.2)点击保存设置-->分包Win
 *  设置版本号(2.3)点击保存设置-->BuildWin
 *  设置版本号(3.4)点击保存设置-->分包Win
-*  挂载ZipDownLoadTest脚本，打开HttpServer目录下的下载服务器可以测试下载,可以通过DownloaderConstant类中的字段设置下载速度
+*  挂载ZipDownLoadTest脚本，打开HttpServer目录下的下载服务器可以测试下载,可以通过DownloaderConstant类中的字段设置下载速度，遗憾的是服务器并发下载目前只支持2个(不是写服务器的不知道怎么去掉限制);
 
