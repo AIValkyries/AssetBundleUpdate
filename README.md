@@ -7,6 +7,7 @@
   * 3.支持分包(excel表中进行分包)
   * 4.支持边玩边下载
   * 5.支持断点续传
+  * 6.场景动态加载
 # 第三方库
 * proto序列化excel:https://blog.csdn.net/linshuhe1/article/details/68060544
 * zip压缩库
